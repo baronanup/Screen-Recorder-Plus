@@ -1,7 +1,7 @@
 # Privacy Policy for Screen Recorder Plus
 
 1. Introduction
-Thank you for choosing Screen Recorder Plus, a file decompression software ("the Software"). This Privacy Policy outlines how we collect, use, and protect your personal information when you use our software.
+Thank you for choosing Screen Recorder Plus, a screen recording software ("the Software"). This Privacy Policy outlines how we collect, use, and protect your personal information when you use our software.
 
 2. Information We Collect
 2.1 Personal Information
